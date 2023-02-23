@@ -1,0 +1,23 @@
+{
+  "name": "avanceproyecto1",
+  "version": "1.0.0",
+  "description": "avance junto con el profe ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Román Suruy Godínez",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "notenv": "^2.0.3"
+  },
+  "devDependencies": {}
+}
